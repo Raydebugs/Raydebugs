@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to Ray Debugs
 
-<!--
-**Raydebugs/Raydebugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Indie Game Studio | Building, Debugging & Creating Experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 About Us
+Ray Debugs is an independent game development studio focused on learning, experimenting, and crafting creative projects.  
+Currently setting up our dev space... exciting things ahead!
+
+---
+
+### 🛠 Status
+**Coming Soon...**
+
+Stay tuned for projects, prototypes, and open-source tools from Ray Debugs.
+
+---
+
+### 🌐 Links
+- Website: [raydebugs.github.io](https://raydebugs.github.io) *(Coming Soon)*
+- Contact: debuggedbyyug@outlook.com
