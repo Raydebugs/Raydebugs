@@ -1,6 +1,6 @@
 # 👋 Welcome to Ray Debugs  
 
-🎮 *Indie Game Studio | Building, Debugging & Creating Experiences*  
+🎮 *Game Studio | Building, Debugging & Creating Experiences*  
 
 ---
 
